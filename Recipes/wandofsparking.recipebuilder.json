@@ -1,0 +1,17 @@
+{
+	"Result": {
+		"Item": "Terraria/WandofSparking",
+		"Count": 1
+	},
+	
+	"Ingredient": {
+		"Item": "Terraria/Gel",
+		"Count": 20
+	
+	"GroupIngredient": {
+		"Group": "Wood",
+		"Count": 50
+	},
+	
+	"Tile": "Terraria/LivingLoom	"
+}

@@ -1,0 +1,4 @@
+displayName = All Stuff Fluff Modpack Changes
+author = SFY
+version = 0.1a
+ModReferences = PackBuilder, CalamityMod, FargowiltasSouls, ThoriumMod
