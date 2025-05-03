@@ -7,6 +7,7 @@
 	"Ingredient": {
 		"Item": "Terraria/Gel",
 		"Count": 20
+	},
 	
 	"GroupIngredient": {
 		"Group": "Wood",
