@@ -1,0 +1,18 @@
+{
+    "Result": {
+        "Item": "SFYsBlade",
+        "Count": 1
+    },
+
+    "Ingredient": {
+        "Item": "Terraria/Volcano",
+        "Count": 1
+    },
+
+    "Ingredient": {
+        "Item": "Terraria/Obsidian",
+        "Count": 20
+    },
+
+    "Tile": "Terraria/Anvils"
+}

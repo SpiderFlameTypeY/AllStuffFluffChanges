@@ -1,1 +1,6 @@
-
+Items: {
+	SFYsBlade: {
+		DisplayName: SFY's Blade
+		Tooltip: Upgraded Volcano
+	}
+}
