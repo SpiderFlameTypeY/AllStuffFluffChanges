@@ -14,8 +14,8 @@ namespace AllStuffFluffChanges.Content.Items.Weapons
             Item.height = 82;
 
             Item.useStyle = ItemUseStyleID.Swing;
-            Item.useTime = 120; //60fps
-            Item.useAnimation = 20; //useTime usually
+            Item.useTime = 20; //60fps
+            Item.useAnimation = 20; //useTime
             Item.autoReuse = true;
 
             Item.DamageType = DamageClass.Melee;
@@ -31,14 +31,14 @@ namespace AllStuffFluffChanges.Content.Items.Weapons
         {
             if (Main.rand.NextBool(1))
             {
-                //Emit dusts when the sword is swung
+                //Dust effect
                 Dust.NewDust(new Vector2(hitbox.X, hitbox.Y), hitbox.Width, hitbox.Height, DustID.GoldFlame);
             }
         }
 
         public override void OnHitNPC(Player player, NPC target, NPC.HitInfo hit, int damageDone)
         {
-            // 60 frames = 1 second
+            //60fps
             target.AddBuff(BuffID.OnFire, 300);
         }
 
