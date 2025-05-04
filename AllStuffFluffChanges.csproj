@@ -7,11 +7,6 @@
 	<PropertyGroup>
 		
 	</PropertyGroup>
-	<ItemGroup>
-	  <Folder Include="tPackBuilder\Items\" />
-	  <Folder Include="tPackBuilder\" />
-	  <Folder Include="tPackBuilder\Recipes\" />
-	</ItemGroup>
 
 	<!-- References -->
 

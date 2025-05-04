@@ -9,8 +9,8 @@ namespace AllStuffFluffChanges.Content.Items.Weapons
     {
         public override void SetDefaults()
         {
-            Item.width = 70;
-            Item.height = 70;
+            Item.width = 75;
+            Item.height = 82;
 
             Item.useStyle = ItemUseStyleID.Swing;
             Item.useTime = 20; //60fps
@@ -32,7 +32,7 @@ namespace AllStuffFluffChanges.Content.Items.Weapons
             if (Main.rand.NextBool(3))
             {
                 // Emit dusts when the sword is swung
-                Dust.NewDust(new Vector2(hitbox.X, hitbox.Y), hitbox.Width, hitbox.Height, DustID.SolarFlare);
+                Dust.NewDust(new Vector2(hitbox.X, hitbox.Y), hitbox.Width, hitbox.Height, DustID.);
             }
         }
 
