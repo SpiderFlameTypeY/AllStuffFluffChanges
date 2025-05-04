@@ -1,1 +1,9 @@
-This is a compat mod for All Stuff Fluff, and does nothing on its own.
+All Stuff Fluff!
+---
+
+For the modpack of the same name, this mod currently adds:
+
+  1 New Weapon
+  0 New Items
+  0 New NPCs
+  0 New Bosses
