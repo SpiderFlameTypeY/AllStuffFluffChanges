@@ -1,6 +1,8 @@
 Items: {
 	SFYsBlade: {
 		DisplayName: SFY's Blade
-		Tooltip: 'From a long, long time ago'
+		Tooltip: From a long, long time ago
 	}
 }
+
+Projectiles.SFYsBladeProjectile.DisplayName: S F Ys Blade Projectile
